@@ -1,0 +1,16 @@
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\SMSWebApi.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\SMSWebApi.pdb
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\Antlr3.Runtime.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\Microsoft.Web.Infrastructure.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\Newtonsoft.Json.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\System.Net.Http.Formatting.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\System.Web.Helpers.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\System.Web.Http.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\System.Web.Http.WebHost.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\System.Web.Mvc.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\System.Web.Optimization.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\WebGrease.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\bin\System.Web.Helpers.xml
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\obj\Debug\SMSWebApi.csprojResolveAssemblyReference.cache
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\obj\Debug\SMSWebApi.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\SMSWebApi\obj\Debug\SMSWebApi.pdb

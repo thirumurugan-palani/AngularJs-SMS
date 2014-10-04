@@ -1,0 +1,1 @@
+﻿myApp.controller("studentController", function ($scope) { });

@@ -1,0 +1,15 @@
+H:\mahesh\mini project\StudentInformationSys\StudentInformationSys\bin\StudentInformationSys.dll
+H:\mahesh\mini project\StudentInformationSys\StudentInformationSys\bin\StudentInformationSys.pdb
+H:\mahesh\mini project\StudentInformationSys\StudentInformationSys\obj\Debug\StudentInformationSys.csprojResolveAssemblyReference.cache
+H:\mahesh\mini project\StudentInformationSys\StudentInformationSys\obj\Debug\StudentInformationSys.dll
+H:\mahesh\mini project\StudentInformationSys\StudentInformationSys\obj\Debug\StudentInformationSys.pdb
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\StudentInformationSys\bin\StudentInformationSys.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\StudentInformationSys\bin\StudentInformationSys.pdb
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\StudentInformationSys\obj\Debug\StudentInformationSys.csprojResolveAssemblyReference.cache
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\StudentInformationSys\obj\Debug\StudentInformationSys.dll
+H:\mahesh\mini project\StudentInformationSys\AngularJs-SMS\StudentInformationSys\obj\Debug\StudentInformationSys.pdb
+D:\AngularJs-SMS\StudentInformationSys\bin\StudentInformationSys.dll
+D:\AngularJs-SMS\StudentInformationSys\bin\StudentInformationSys.pdb
+D:\AngularJs-SMS\StudentInformationSys\obj\Debug\StudentInformationSys.csprojResolveAssemblyReference.cache
+D:\AngularJs-SMS\StudentInformationSys\obj\Debug\StudentInformationSys.dll
+D:\AngularJs-SMS\StudentInformationSys\obj\Debug\StudentInformationSys.pdb
